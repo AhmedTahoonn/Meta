@@ -1,0 +1,40 @@
+/// abstract class
+abstract class RegisterStates
+{
+
+}
+////////////////////////////////////////////////////////////////////////////////
+/// Initial state
+class SignUpInitialState extends RegisterStates
+{
+
+}
+////////////////////////////////////////////////////////////////////////////////
+/// signup state
+class RegisterLoadingState extends RegisterStates
+{
+
+}
+class RegisterSuccessState extends RegisterStates
+{
+
+}
+class RegisterErrorState extends RegisterStates
+{
+
+}
+////////////////////////////////////////////////////////////////////////////////
+/// create user state
+class CreateUserSuccessState extends RegisterStates
+{
+
+}
+class CreateUserErrorState extends RegisterStates
+{
+
+}
+////////////////////////////////////////////////////////////////////////////////
+
+
+
+
