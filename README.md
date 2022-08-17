@@ -1,4 +1,4 @@
-# mysocialapp
+# Meta
 
 A new Flutter project.
 
